@@ -25,6 +25,25 @@
 
 [Devopsdays Turbo Encabulator](https://www.youtube.com/watch?v=iCPOWHgUKyo)
 
+## 2020 
+
+### Latest:
+-----------------------------
+
+**I Got 99 Problems and a Bash DSL Ain't One of Them**
+
+[Slides] (https://www.slideshare.net/botchagalupe/i-got-99-problems-and-a-bash-dsl-aint-one-of-them)
+
+**Devops What a Long Strange Trip It's Been**
+
+[Slides] (https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
+
+[Video] (https://www.slideshare.net/botchagalupe/divine-and-felonios-cyber-security-devopsdays-austin-2018)
+
+**Devopsdays NYC 2018 Keynote - Devops What a Long Strange Trip It's Been**
+
+[Video] (https://www.youtube.com/watch?v=Ot4GvOtq5XY)
+
 ## 2019 
 
 ### Latest:
