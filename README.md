@@ -38,10 +38,6 @@
 
 [Slides] (https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
 
-[Video] (https://www.slideshare.net/botchagalupe/divine-and-felonios-cyber-security-devopsdays-austin-2018)
-
-**Devopsdays NYC 2018 Keynote - Devops What a Long Strange Trip It's Been**
-
 [Video] (https://www.youtube.com/watch?v=Ot4GvOtq5XY)
 
 ## 2019 
