@@ -57,11 +57,7 @@
 
 [Video] (https://www.youtube.com/watch?v=v5lZdHjY3Go)
 
-**The 7 Deadly Diseases of DevOps**
-
 [Video] (https://www.youtube.com/watch?v=QQL4WAd5b6E)
-
-[Slides] (https://www.slideshare.net/botchagalupe/the-7-deadly-diseases-of-devops-2019)
 
 ## 2018 
 
